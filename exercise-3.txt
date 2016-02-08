@@ -1,0 +1,9 @@
+Exercise 3
+
+Retrieve data from the previously inserted decodemtl_addressbook.Account row
+Retrieve data from the previously inserted decodemtl_addressbook.AddressBook row
+Retrieve data from the previously inserted decodemtl_addressbook.Entry rows
+
+1. select * from Account;
+2. select * from AddressBook;
+3. select * from Entry;
