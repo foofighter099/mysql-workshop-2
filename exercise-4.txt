@@ -1,0 +1,9 @@
+Exercise 4
+
+Modify the decodemtl_addressbook.Account row
+Modify the decodemtl_addressbook.AddressBook row
+Modify the three decodemtl_addressbook.Entry rows using one query only
+
+1. update Account set values = values + 1;
+2. update AddressBook set accountId = 3;
+3. update Entry set addressBookId = 4;
