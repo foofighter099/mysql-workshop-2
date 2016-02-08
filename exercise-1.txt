@@ -1,0 +1,8 @@
+Exercise 1
+
+Import Database Schema from the following source file into decodemtl_addressbook:
+data/import-table-structure.sql
+
+1. create database decodemtl_addressbook;
+2. use decodemtl_addressbook;
+3. source data/import-table-structure.sql;
