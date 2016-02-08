@@ -1,0 +1,9 @@
+Exercise 2
+
+Insert one row into decodemtl_addressbook.Account
+Insert one row into decodemtl_addressbook.AddressBook
+Insert three rows into decodemtl_addressbook.Entry
+
+1. insert into Account values ();
+2. insert into AddressBook values ();
+3. insert into Entry values (),(),(); 
