@@ -1,0 +1,9 @@
+Exercise 9
+
+How many Accounts exist?
+How many Address Books exist?
+How many Address Book Entries exist?
+
+1. select * from Account; --> 1000 
+2. select * from AddressBook; --> 1100
+3. select * from Entry; --> 4000
