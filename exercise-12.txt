@@ -1,0 +1,7 @@
+Exercise 12
+
+Which Account owns the most Address Books?
+Which Address Book contains the most Entries?
+
+1. SELECT accountId, COUNT(*) FROM AddressBook GROUP BY accountId; --> (there are two with the MAX: 19) accountId = 14, 5
+2. SELECT addressBookId, COUNT(*) FROM Entry GROUP BY addressBookId; --> adressBookId 37 has 52 Entries
