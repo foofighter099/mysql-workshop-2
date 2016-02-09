@@ -1,0 +1,4 @@
+Exercise 5
+
+Delete all data from decodemtl_addressbook.Entry without using a DELETE statement
+1. ???????????
