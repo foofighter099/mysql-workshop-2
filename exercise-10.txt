@@ -1,0 +1,10 @@
+Exercise 10
+
+How many Address Book Entries are listed as born before February 12th of 1982?
+How many Address Book Entries are listed as born on or after January 1st of 1965?
+Which Address Book Entry is listed as being the oldest of age?
+
+1. SELECT COUNT(birthday) FROM Entry where birthday < '1982-02-12'; --> 2687
+2. SELECT COUNT(birthday) FROM Entry where birthday >= '1965-01-01'; --> 2597
+3. select min(birthday) from Entry; --> 1945-09-02
+   select * from Entry where birthday = '1945-09-02 09:21:58'; --> Abigail Rollins
